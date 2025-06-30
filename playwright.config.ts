@@ -24,11 +24,14 @@ const config: PlaywrightTestConfig = {
     ['@reportportal/agent-js-playwright', rpConfig],
     [ "json", { "outputFile": "playwright-report/local-report.json"}]
   ],
-  testDir: './tests/geeksforgeeks',
   projects: [
     {
-      name: 'geeksforgeeks',
-      testDir: './tests/geeksforgeeks',
+      name: 'login',
+      testDir: './tests/login',
+    },
+    {
+      name: 'orders',
+      testDir: './tests/orders',
     },
   ],
 };
