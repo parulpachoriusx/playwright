@@ -16,7 +16,7 @@ const config = {
   ],
   description: 'This is an example launch with playwright tests',
   restClientConfig: {
-    timeout: 100,
+    timeout: 30000,
   },
   includeTestSteps: true,
   skippedIssue: false,
