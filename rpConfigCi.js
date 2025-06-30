@@ -1,9 +1,9 @@
 const config = {
   // required fields
-  apiKey: 'playwright-testing_YrJdqcURTzeTOlT40rBQBC3Gvn0aN8Upu6ltjmVdE_YpNTTfJO_rNrFwTAbmxDGX',
+  apiKey: 'DX-Test_rGPk9D3wT9Ky2r4c_Yn7PulzV2UR-5C25aQ1byvuWtAByT3x3XnLm6njfmLa8NMo',
   endpoint: 'https://reportportal.dpl.usxpress.io/api/v1',
   project: 'default_personal',
-  launch: 'Custom regression',
+  launch: 'release-1.0',
   // optional fields
   attributes: [
     {

@@ -27,7 +27,7 @@ const config: PlaywrightTestConfig = {
   testDir: './tests/geeksforgeeks',
   projects: [
     {
-      name: 'basic',
+      name: 'geeksforgeeks',
       testDir: './tests/geeksforgeeks',
     },
   ],
