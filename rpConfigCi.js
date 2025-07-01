@@ -1,7 +1,7 @@
 const config = {
   // required fields
-  apiKey: 'DX-Test_rGPk9D3wT9Ky2r4c_Yn7PulzV2UR-5C25aQ1byvuWtAByT3x3XnLm6njfmLa8NMo',
-  endpoint: 'https://reportportal.dpl.usxpress.io/api/v1',
+  apiKey: 'testing_nG3vZILYSa6PfzsWQ1QHKEhoXEsjyF7j6Q7h4o6dw5f8BampCkR4id-iiDtNJfaa',
+  endpoint: 'https://reportportal.usxpress.io/api/v1',
   project: 'development',
   launch: 'orders',
   // optional fields
